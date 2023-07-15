@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=zeyadusf&color=blue)
 
 <div align="center">
   
