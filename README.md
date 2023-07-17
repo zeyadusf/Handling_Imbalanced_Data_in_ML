@@ -57,7 +57,9 @@
 
 - Ziad Elsayed <a href="https://github.com/ziadelsayed239/" target="_blank"><img src="https://img.shields.io/badge/-Ziad Elsayed-403E3E?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 
-- Ziad Mahammed
+- Ziad Mahammed <a href="https://www.linkedin.com/in/ziad-muhammad-249986283" target="_blank">
+  <img src="https://img.shields.io/badge/-Ziad Muhammad-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  
 
   <hr>
 <!--Social Media-->
